@@ -1,1 +1,2 @@
-# 1dawb-kotlin-oop-10-10
+# Ejercicio 4.10
+* Realizar el juego del 3 en raya con POO.
